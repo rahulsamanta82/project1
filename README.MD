@@ -6,3 +6,6 @@ ghatal
 
 # College
 Chitkara university
+
+# campus
+himachal pradesh
